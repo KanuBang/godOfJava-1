@@ -1,4 +1,4 @@
-package f_lab.godOfJava_1.jvm.finalPractice;
+package f_lab.godOfJava_1.finalPractice;
 
 public class ConstructInit {
     final int value;

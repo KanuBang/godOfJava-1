@@ -1,4 +1,4 @@
-package f_lab.godOfJava_1.jvm.constantPractice;
+package f_lab.godOfJava_1.constantPractice;
 
 public class FinalRefMain {
     public static void main(String[] args) {
