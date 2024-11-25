@@ -1,4 +1,4 @@
-package f_lab.godOfJava_1.collectionsFramework.StackQueue;
+package f_lab.godOfJava_1.collectionsFramework.stackqueue;
 
 import java.util.EmptyStackException;
 import java.util.Vector;
