@@ -1,4 +1,4 @@
-package f_lab.godOfJava_1.collectionsFramework;
+package f_lab.godOfJava_1.collectionsFramework.arrayList;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,8 +1,8 @@
-package f_lab.godOfJava_1.collectionsFramework;
+package f_lab.godOfJava_1.collectionsFramework.vector;
 
 import java.util.*;
 
-public class MyVector implements List {
+public abstract class MyVector implements List {
 
     Object[] data = null; // 객체를 담기 위한 객체배열을 선언한다.
     int capacity = 0; // 용량
@@ -94,7 +94,7 @@ public class MyVector implements List {
         size = 0;
     }
 
-    @Override
+
     public Object[] toArray() {
         Object[] result = new Object[size];
         System.arraycopy(data, 0, result, 0, size);

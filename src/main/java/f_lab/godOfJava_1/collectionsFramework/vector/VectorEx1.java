@@ -1,4 +1,4 @@
-package f_lab.godOfJava_1.collectionsFramework;
+package f_lab.godOfJava_1.collectionsFramework.vector;
 
 import java.sql.SQLOutput;
 import java.util.Vector;
